@@ -1,0 +1,101 @@
+itemUUID,name,price,globalCategory,subCategory,minorCategory,tags,,,,,rando
+1,Worn Shortsword,205,weapon,one hand,sword,"FALSE,luxury,alliance,FALSE,FALSE,FALSE",,,,,7
+2,Bent Staff,235,weapon,two hand,staff,"FALSE,luxury,horde,made in USA,FALSE,FALSE",,,,,1
+3,Worn Mace,20,weapon,one hand,mace,"inexpensive,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+4,Worn Axe,175,weapon,two hand,axe,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+5,Recruit's Shirt,30,clothing,armor,chest,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+6,Recruit's Pants,130,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+7,Recruit's Boots,90,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+8,Squire's Boots,200,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+9,Squire's Pants,155,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+10,Squire's Shirt,40,clothing,armor,chest,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+11,Footpad's Shoes,230,clothing,armor,feet,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,8
+12,Footpad's Pants,235,clothing,armor,legs,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,9
+13,Footpad's Shirt,230,clothing,armor,chest,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,10
+14,Neophyte's Boots,185,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+15,Neophyte's Pants,140,clothing,armor,legs,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,2
+16,Neophyte's Shirt,195,clothing,armor,chest,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+17,Apprentice's Boots,225,clothing,armor,feet,"FALSE,luxury,horde,made in USA,FALSE,FALSE",,,,,1
+18,Apprentice's Robe,245,clothing,armor,chest,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,8
+19,Acolyte's Robe,105,clothing,armor,chest,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+20,Acolyte's Shoes,100,clothing,armor,feet,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+21,Layered Tunic,80,clothing,armor,chest,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+22,Dwarven Leather Pants,120,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+23,Dwarven Cloth Britches,205,clothing,armor,legs,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,3
+24,Soft Fur-Lined Shoes,150,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+25,Dirty Leather Vest,190,clothing,armor,chest,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+26,Tough Jerky,90,inventory,food,meat,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+27,Minor Healing Potion,150,inventory,potion,healing,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+28,Thug Pants,125,clothing,armor,pants,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+29,Thug Boots,55,clothing,armor,feet,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+30,Trapper's Shirt,245,clothing,armor,chest,"FALSE,luxury,horde,FALSE,FALSE,spring",,,,,4
+31,Rugged Trapper's Boots,15,clothing,armor,feet,"inexpensive,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+32,Deprecated War Harness,185,clothing,armor,chest,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+33,Brawler's Pants,125,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+34,Brawler's Boots,160,clothing,armor,feet,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+35,Rugged Trapper's Pants,70,clothing,armor,legs,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+36,Rugged Trapper's Shirt,125,clothing,armor,chest,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+37,Primitive Kilt,175,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+38,Primitive Mantle,215,clothing,armor,chest,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,8
+39,Refreshing Spring Water,140,inventory,food,liquid,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,2
+40,Garrick's Head,60,inventory,quest,magic,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+41,Tattered Cloth Vest,235,clothing,armor,chest,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,9
+42,Tattered Cloth Pants,115,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+43,Tattered Cloth Boots,95,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+44,Thick Cloth Vest,160,clothing,armor,chest,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+45,Thick Cloth Pants,160,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+46,Thick Cloth Shoes,35,clothing,armor,feet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+47,Thick Cloth Gloves,35,clothing,armor,hands,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,2
+48,Dirty Leather Pants,15,clothing,armor,legs,"inexpensive,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+49,Dirty Leather Boots,245,clothing,armor,feet,"FALSE,luxury,horde,FALSE,FALSE,spring",,,,,4
+50,Cured Leather Armor,145,clothing,armor,chest,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+51,Cured Leather Pants,230,clothing,armor,legs,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,3
+52,Cured Leather Boots,140,clothing,armor,feet,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+53,Cured Leather Gloves,10,clothing,armor,hands,"inexpensive,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+54,Scalemail Vest,15,clothing,armor,chest,"inexpensive,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+55,Scalemail Pants,85,clothing,armor,legs,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+56,Scalemail Boots,245,clothing,armor,feet,"FALSE,luxury,horde,FALSE,FALSE,spring",,,,,4
+57,Dalaran Sharp,130,weapon,one hand,dagger,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+58,Dwarven Mild,135,inventory,food,liquid,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+59,Bracers of the People's Militia,235,clothing,armor,hands,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,3
+60,Tattered Cloth Gloves,95,clothing,armor,hands,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+61,Dirty Leather Gloves,210,clothing,armor,hands,"FALSE,luxury,horde,made in USA,FALSE,FALSE",,,,,1
+62,Scalemail Gloves,210,clothing,armor,hands,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,5
+63,Rabbit Handler Gloves,160,clothing,armor,hands,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+64,Brawler Gloves,5,clothing,armor,hands,"inexpensive,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+65,Goretusk Liver,225,inventory,food,meat,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,5
+66,Goretusk Liver Pie,60,inventory,food,meat,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,9
+67,Gnoll Paw,10,inventory,reagent,magic,"inexpensive,FALSE,horde,FALSE,FALSE,FALSE",,,,,2
+68,Notched Shortsword,245,weapon,one hand,sword,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,8
+69,Recipe: Westfall Stew,150,inventory,recipe,food,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+70,Westfall Stew,60,inventory,food,meat,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+71,Deprecated Malakai's Medallion,170,clothing,accessory,amulet,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+72,Rolf and Malakai's Medallions,30,clothing,accessory,amulet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+73,Holy Spring Water,105,inventory,potion,healing,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+74,Sack of Barley,130,inventory,food,carb,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+75,Sack of Corn,145,inventory,food,carb,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+76,Sack of Rye,145,inventory,food,carb,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+77,A Sycamore Branch,155,inventory,reagent,common,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+78,Bundle of Charred Oak,245,inventory,reagent,common,"FALSE,luxury,horde,FALSE,FALSE,FALSE",,,,,3
+79,Thunderbrew's Boot Flask,105,inventory,food,liquid,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+80,Marshal McBride's Documents,140,inventory,quest,common,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+81,Stormwind Chestplate,170,clothing,armor,chest,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+82,Tough Wolf Meat,170,inventory,food,meat,"FALSE,FALSE,horde,made in USA,FALSE,FALSE",,,,,1
+83,Red Burlap Bandana,50,clothing,armor,head,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+84,Dragonmaw Shortsword,205,weapon,one hand,sword,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,10
+85,Shortsword of Vengeance,135,weapon,one hand,sword,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,3
+86,Tunnel Pick,230,weapon,one hand,dagger,"FALSE,luxury,alliance,FALSE,FALSE,FALSE",,,,,7
+87,Ice-Covered Bracers,50,clothing,armor,hands,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+88,Silverleaf,90,inventory,reagent,magic,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+89,Flanged Mace,45,weapon,one hand,mace,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+90,Long Bo Staff,45,weapon,two hand,staff,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+91,Lumberjack Axe,40,weapon,two hand,axe,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,7
+92,Chunk of Boar Meat,155,inventory,food,meat,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,5
+93,Large Candle,30,inventory,reagent,common,"FALSE,FALSE,alliance,FALSE,FALSE,FALSE",,,,,6
+94,Gold Dust,210,inventory,reagent,common,"FALSE,luxury,alliance,FALSE,handmade,FALSE",,,,,8
+95,Malachite,85,inventory,reagent,common,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+96,Recipe: Mom's Soup,115,inventory,recipe,food,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,10
+97,Kobold Excavation Pick,45,inventory,quest,common,"FALSE,FALSE,horde,FALSE,FALSE,spring",,,,,4
+98,Torn Murloc Fin,115,inventory,reagent,magic,"FALSE,FALSE,alliance,FALSE,handmade,FALSE",,,,,8
+99,Stone Gnoll Hammer,215,weapon,two hand,staff,"FALSE,luxury,alliance,FALSE,FALSE,FALSE",,,,,6
+100,Painted Gnoll Armband,40,clothing,accessory,amulet,"FALSE,FALSE,horde,FALSE,FALSE,FALSE",,,,,2
